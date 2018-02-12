@@ -12,3 +12,4 @@ Working repository for Jupyter notebooks for the Analytics Class, Spring 2018.
 * [ICA](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/ICA.ipynb) (1/30)
 * [Clustering](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/Clustering.ipynb) (2/1)
 * [Linear discriminant analysis](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/LinDisc.ipynb) (2/8)
+* [Logistic regression](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/Logistic.ipynb) (2/13)
