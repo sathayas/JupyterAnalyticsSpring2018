@@ -14,3 +14,4 @@ Working repository for Jupyter notebooks for the Analytics Class, Spring 2018.
 * [Linear discriminant analysis](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/LinDisc.ipynb) (2/8)
 * [Logistic regression](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/Logistic.ipynb) (2/13)
 * [Support vector machine](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/SVM.ipynb) (2/15-2/20)
+* [Nearest neighbor methods](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/NearestNeighbor.ipynb) (2/22)
