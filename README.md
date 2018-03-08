@@ -17,3 +17,4 @@ Working repository for Jupyter notebooks for the Analytics Class, Spring 2018.
 * [Nearest neighbor methods](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/NearestNeighbor.ipynb) (2/22)
 * [Decision trees](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/DecisionTree.ipynb) (2/27)
 * [Feature selection, cross validation](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/CrossValidation.ipynb) (3/1)
+* [Network basics](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/NetworkBasics.ipynb) (3/22)
