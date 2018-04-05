@@ -19,3 +19,4 @@ Working repository for Jupyter notebooks for the Analytics Class, Spring 2018.
 * [Feature selection, cross validation](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/CrossValidation.ipynb) (3/1)
 * [Network basics](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/NetworkBasics.ipynb) (3/22)
 * [Network statistics](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/NetworkStats.ipynb) (3/29)
+* [Node centrality](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/NetworkCentral.ipynb) (4/3)
