@@ -22,3 +22,4 @@ Working repository for Jupyter notebooks for the Analytics Class, Spring 2018.
 * [Node centrality](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/NetworkCentral.ipynb) (4/3)
 * [Network community](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/NetworkCommunity.ipynb) (4/10)
 * [Text processing](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/TextProcessing.ipynb) (4/12)
+* [Corpora & WordNet](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/Corpora.ipynb) (4/17)
