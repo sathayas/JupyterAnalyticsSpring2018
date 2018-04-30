@@ -24,3 +24,4 @@ Working repository for Jupyter notebooks for the Analytics Class, Spring 2018.
 * [Text processing](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/TextProcessing.ipynb) (4/12)
 * [Corpora & WordNet](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/Corpora.ipynb) (4/17)
 * [Word cloud](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/WordCloud.ipynb) (4/19)
+* [Text classification](https://github.com/sathayas/JupyterAnalyticsSpring2018/blob/master/TextClassify.ipynb) (4/24)
